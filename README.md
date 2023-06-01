@@ -23,6 +23,7 @@ Note: These are in alphabetical order, any new wallets must be in alphabetical o
 - [Petra](https://www.npmjs.com/package/petra-plugin-wallet-adapter)
 - [Pontem](https://www.npmjs.com/package/@pontem/wallet-adapter-plugin)
 - [Rise](https://www.npmjs.com/package/@rise-wallet/wallet-adapter)
+- [Spacecy](https://www.npmjs.com/package/@spacecy-wallet/aptos-wallet-adapter)
 - [TokenPocket](https://www.npmjs.com/package/@tp-lab/aptos-wallet-adapter)
 - [Trust](https://www.npmjs.com/package/@trustwallet/aptos-wallet-adapter)
 - [WELLDONE](https://www.npmjs.com/package/@welldone-studio/aptos-wallet-adapter)
